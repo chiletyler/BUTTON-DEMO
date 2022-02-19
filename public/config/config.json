@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x85aa12AD1f0C3897e89b8e87e8c18574a0A1a01d",
+  "SCAN_LINK": "https://etherscan.io/address/0x85aa12ad1f0c3897e89b8e87e8c18574a0a1a01d",
+  "NETWORK": {
+    "NAME": "ETHEREUM",
+    "SYMBOL": "ETH",
+    "ID": 1 
+  },
+  "NFT_NAME": "AREA51",
+  "SYMBOL": "A51",
+  "MAX_SUPPLY": 2400,
+  "WEI_COST": 0.20000000000000000,
+  "DISPLAY_COST": 0.02,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/area51-v2",
+  "SHOW_BACKGROUND": true
+}
